@@ -1,0 +1,27 @@
+{
+  "name": "converter",
+  "version": "1.0.0",
+  "description": "Getting Started with Node.js and Mocha | https://semaphoreci.com/community/tutorials/getting-started-with-node-js-and-mocha",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d2rd/getting_started_nodeJS_mocha.git"
+  },
+  "keywords": [
+    "tutorial",
+    "node",
+    "express",
+    "mocha",
+    "chai",
+    "lg"
+  ],
+  "author": "Igor Šarčević",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/d2rd/getting_started_nodeJS_mocha/issues"
+  },
+  "homepage": "https://github.com/d2rd/getting_started_nodeJS_mocha#readme"
+}
